@@ -172,8 +172,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **[Your Name]**
-- GitHub: [@your-username](https://github.com/ParthMedatwal)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/parth-medatwal-36943220a)
+- GitHub: [Parth Medatwal](https://github.com/ParthMedatwal)
+- LinkedIn: [Parth_medatwal](https://www.linkedin.com/in/parth-medatwal-36943220a)
 - Email: pmedatwal226@gmail.com
 
 ## 🙏 Acknowledgments
