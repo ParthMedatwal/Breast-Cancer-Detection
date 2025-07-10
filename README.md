@@ -144,16 +144,11 @@ The project includes comprehensive visualizations:
 ```
 breast-cancer-detection/
 │
-├── breast_cancer_detection.py    # Main analysis script
-├── breast_cancer_dataframe.csv   # Generated dataset
-├── requirements.txt              # Dependencies
-├── README.md                     # Project documentation
-├── images/                       # Visualization outputs
-│   ├── correlation_heatmap.png
-│   ├── confusion_matrix.png
-│   └── pair_plots.png
-└── notebooks/                    # Jupyter notebooks (optional)
-    └── analysis.ipynb
+├── Breast_Cancer_Detection_Using_Machine_Lear...  # Main Python analysis script
+├── breast_cancer_dataframe.csv                   # Processed dataset (generated)
+├── breast_cancer_raw.csv                         # Raw dataset file
+├── LICENSE                                        # MIT License file
+└── README.md                                      # Project documentation
 ```
 
 ## 🎯 Applications
