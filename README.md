@@ -67,7 +67,7 @@ pip package manager
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/breast-cancer-detection.git
+git clone https://github.com/ParthMedatwal/breast-cancer-detection.git
 cd breast-cancer-detection
 ```
 
@@ -164,15 +164,6 @@ This project demonstrates practical applications in:
 - 💻 **Healthcare AI**: Clinical decision support systems
 - 📊 **Data Science**: Comparative ML algorithm analysis
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📜 License
 
@@ -181,9 +172,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [@your-username](https://github.com/ParthMedatwal)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/parth-medatwal-36943220a)
+- Email: pmedatwal226@gmail.com
 
 ## 🙏 Acknowledgments
 
