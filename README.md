@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ### Quick Start
 ```python
 # Run the complete analysis
-python breast_cancer_detection.py
+python Breast_Cancer_Detection_Using_Machine_Learning_Classifier.ipynb
 ```
 
 ### Step-by-Step Execution
