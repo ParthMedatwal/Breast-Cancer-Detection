@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🩺 Breast Cancer Detection Using Machine Learning
 
 A comprehensive machine learning project that compares multiple classification algorithms to detect breast cancer with high accuracy and zero Type II errors, making it suitable for medical diagnostic applications.
@@ -5,6 +7,10 @@ A comprehensive machine learning project that compares multiple classification a
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-orange)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+</div>
+
+---
 
 ## 📋 Table of Contents
 - [Overview](#overview)
